@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 <img align="right" alt="coding"width="400"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJsbGI0OGF2cnIyd3NvYnl3eTFhN2thcGRjZHFieGd5MGl4MHByeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkhDHVJycqaRT0LD4U/giphy.gif"
 
-<br>- 🌱 I’m currently learning **web developer**</br>
+<br>- 🌱 I’m currently learning **Software Development Engineer (SDE)**</br>
 
 <br>- ⚡ Fun fact **There is always one more bug to fix**</br>
 
