@@ -25,19 +25,15 @@
 </p>
 
 
-<h3 align="left">Databases:</h3>
+<h3 align="left">Databases, Tools, Frameworks & Technologies:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,vscode,vite,github,git,figma,postman,sklearn,tensorflow,opencv,firebase,flask,gcp&perline=16" />
   </a>
 </p>
 
-<h3 >Tools, Frameworks & Technologies:</h3>
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vite,github,git,figma,postman,sklearn,tensorflow,opencv,firebase,flask,gcp&perline=6" />
-  </a>
-</p>
+
+  
 <!-- <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
 
 <h3 align="left">🔥 GitHub Streak Stats:</h3>
