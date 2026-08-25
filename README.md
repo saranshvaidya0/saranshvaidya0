@@ -17,16 +17,29 @@
 <a href="https://www.snapchat.com/add/saranshvaidya?share_id=ByLCJ4cEabo&locale=en-IN"target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="" height="30" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,bootstrap&perline=6" />
+  </a>
+</p>
+
+
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&perline=6" />
+  </a>
+</p>
+
+<h3 >Tools, Frameworks & Technologies:</h3>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vite,github,git,figma,postman,sklearn,tensorflow,opencv,firebase,flask,gcp&perline=6" />
   </a>
 </p>
 <!-- <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
 
-
-
 <h3 align="left">🔥 GitHub Streak Stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saranshvaidya0)](https://git.io/streak-stats)
+![Saransh's GitHub Stats](https://github-stats-extended.vercel.app/api/?username=saranshvaidya0&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Saransh%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
