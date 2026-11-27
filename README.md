@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranshvaidya&label=Profile%20views&color=0e75b6&style=flat" alt="saranshvaidya" /> </p>
 <h1 align="center">Hi 👋, I'm Saransh Vaidya</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
-<img align="right" alt="coding" width="500" src="https://d2h58dsjpbzmve.cloudfront.net/5i65y%2Fpreview%2F82214586%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1795595117&Signature=FVzBj8k6gqAj6oSNsXk3rT~-KTmG-~rXlExK2ShsDmlDEsfgupv8eZV1116cf~LBxZhgFd-MYATdpT~mfmwMC9SqgiEn4HUOaMUvopioXzEo3zdWfT06dVLeoMEUQVGJxJvgHeNX7GUNrWT1643F1mHrENfIfTjEK1ltYcpakG-Dgz4oMhq~pWnVHZuqlG2AJAmuiEzRittuVPt5XE3p2fgSnjs9uSZ1xEAMAnNrcXTsjT~M3-ysvbZWDFS1lBP0-G9XFmi0hP6KAmeskE8nLrUzpS7XAfbJA8o4WVnZh5YG9TKA-damZllvsQ5dCSj8JYD02wp6KQlp3OCvsWCxMQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"
+<img align="right" alt="coding" width="450" src="https://d2h58dsjpbzmve.cloudfront.net/5i65y%2Fpreview%2F82214586%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1795595117&Signature=FVzBj8k6gqAj6oSNsXk3rT~-KTmG-~rXlExK2ShsDmlDEsfgupv8eZV1116cf~LBxZhgFd-MYATdpT~mfmwMC9SqgiEn4HUOaMUvopioXzEo3zdWfT06dVLeoMEUQVGJxJvgHeNX7GUNrWT1643F1mHrENfIfTjEK1ltYcpakG-Dgz4oMhq~pWnVHZuqlG2AJAmuiEzRittuVPt5XE3p2fgSnjs9uSZ1xEAMAnNrcXTsjT~M3-ysvbZWDFS1lBP0-G9XFmi0hP6KAmeskE8nLrUzpS7XAfbJA8o4WVnZh5YG9TKA-damZllvsQ5dCSj8JYD02wp6KQlp3OCvsWCxMQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"
 
 <br>- 🌱 I’m currently learning **Software Development Engineer (SDE)**</br>
  
